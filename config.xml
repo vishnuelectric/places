@@ -1,0 +1,10 @@
+<widget id="com.vishnu.places" 
+  xmlns="http://www.w3.org/ns/widgets" 
+  xmlns:cdv="http://cordova.apache.org/ns/1.0" version="0.0.1">
+  <name>Places</name>
+  <author email="vishnu2702#gmail.com" href="http://cordova.io">Vishnu Prasad</author>
+  <content src="index.html"/>
+  <access origin="*"/>
+  <icon src="img/logo.png"/>
+  <description>A application to find places aorund you using google</description>
+</widget>
