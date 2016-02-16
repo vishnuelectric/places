@@ -33,7 +33,7 @@
 	google.maps.event.addDomListener(window, "load", init);
 
 function init(){
-	console.log("hello");
+
 	
 	geocoder = new google.maps.Geocoder();
 	
